@@ -17,5 +17,5 @@ end
 
 def any_phrase(String s)
   phrase = s
-  puts s
+  puts phrase
 end
