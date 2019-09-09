@@ -15,3 +15,7 @@ def link
 end
 
 
+def any_phrase(String s)
+  phrase = s
+  puts s
+end
